@@ -8,5 +8,5 @@ git branch to check
 git status to check status 
 1 step add
 2 step commit
-
+git push origin main (to upload local to remote)
 
